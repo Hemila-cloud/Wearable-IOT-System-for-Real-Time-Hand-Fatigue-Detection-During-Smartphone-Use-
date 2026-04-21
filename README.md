@@ -62,7 +62,7 @@ If high grip force + repeated thumb motion + low wrist variation → Fatigue sco
 | High | Repeated vibration (slow usage) |
 | Critical | Long vibration (take break) |
 
----
+
 
 ## Hardware Components
 - ESP32 Microcontroller  
@@ -116,7 +116,3 @@ If high grip force + repeated thumb motion + low wrist variation → Fatigue sco
 ## Conclusion
 This project provides a practical solution for monitoring hand fatigue using wearable IoT technology. It combines sensor fusion and real-time feedback to promote ergonomic smartphone usage.
 
----
-
-## Author
-Hemila
